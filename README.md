@@ -7,6 +7,8 @@
 
 ![Josué Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Josualisson&show_icons=true&theme=transparent)
 
+
+
 ## Tecnologias e ferramentas que uso no meu dia
 
 <div style="display: inline-block;">
@@ -31,7 +33,12 @@
     <!-- BRAVE -->
     <img align="center" alt="html5" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
 </div>
-
 <br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josualisson&langs_count=8)](https://github.com/Josualisson/github-readme-stats)
+
+
+
 
 #### Desenvolvedor Front-end - Recife-PE | atualmente estou cursando a faculdade de Análise e desenvolvimento de sistemas pela UNIFACTECIE (2º período) | cursei o TRANSFORMA TEC e obtive uma carga horária de 420 horas nos cursos de: GIT, GITHUB, LÓGICA DE PROGRAMAÇÃO, HTML, CSS, JAVASCRIPT, REACT, JAVA, BANCO DE DADOS(SQL) E SPRING BOOT.

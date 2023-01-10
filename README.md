@@ -1,4 +1,4 @@
-### Olá! Eu sou o Josué Alisson 🖥️
+# Olá! Eu sou o Josué Alisson. 🖥️
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuealisson.vercel.app/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5581996197466&text=Quero+fazer+meu+or%C3%A7amento&type=phone_number&app_absent=0)

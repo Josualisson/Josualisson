@@ -47,7 +47,7 @@
 
 <h4>Linguagens mais usadas:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josualisson&langs_count=8)](https://github.com/Josualisson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josualisson&langs_count=8)](https://github.com/josualisson/github-readme-stats)
 
 # Obrigado!
 

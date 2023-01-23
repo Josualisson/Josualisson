@@ -50,5 +50,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josualisson&langs_count=8)](https://github.com/Josualisson/github-readme-stats)
 
 # Obrigado!
-
-![snake gif](https://github.com/Josualisson/Josualisson/blob/output/github-contribution-grid-snake.svg)
